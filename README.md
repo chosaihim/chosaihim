@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm SaihimCho</h1>
-<h3 align="center">Backend</h3>
+<h1 align="center">I'm SaihimCho</h1>
+<h3 align="center">I'm Looking for a job as a ''Backend Software Engineer'' </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
