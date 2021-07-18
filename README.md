@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">I'm SaihimCho</h1>
+<h1 align="center">Saihim Cho</h1>
 <h3 align="center">1st year Software Engineer </h3>
 
 
