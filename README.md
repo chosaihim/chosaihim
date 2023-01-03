@@ -2,7 +2,7 @@
 
 <h1 align="center">Saihim Cho</h1>
 
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
